@@ -3,7 +3,7 @@
  * Copyright(c)2020 happy358
  * Site:https://labs.manohara.info/simplescroll/
  * Released under the MIT license.
- * see https://labs.manohara.info/License.txt
+ * see https://github.com/happy358/simpleScroll/blob/master/LICENSE
  */
 (function () {
   var e = document.querySelector("#script_simplescroll");
