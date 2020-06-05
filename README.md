@@ -1,4 +1,4 @@
-# simpleScroll
+# simpleScroll.js
 Smooth Scroll To Top and Bottom.<br/>
 Simple, Fully Automatic.<br/>
 Pure JavaScript Library.
