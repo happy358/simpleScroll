@@ -29,6 +29,7 @@ https://labs.manohara.info/simplescroll/
 
 # Polyfill
 ## Scroll-Behavior-polyfill Library : for Safari and Edge
+https://github.com/iamdustan/smoothscroll
 ```
 <script defer src='https://cdnjs.cloudflare.com/ajax/libs/iamdustan-smoothscroll/0.4.0/smoothscroll.min.js'></script>
 ```
