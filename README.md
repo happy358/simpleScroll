@@ -9,12 +9,12 @@ https://labs.manohara.info/simplescroll/
 # Usage
 https://labs.manohara.info/simplescroll/
 
-Basic Usage
+## Basic Usage
 ```
 <script defer src='path/to/simpleScroll.js' id="script_simplescroll"></script>
 ```
 
-OR Detail Sample
+## detail setting Sample
 
 ```
 <script defer src='path/to/simpleScroll.js' id="script_simplescroll" data-color="white" data-border="black" data-bordersize="10" data-size="33"></script>
