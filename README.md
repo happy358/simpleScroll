@@ -7,6 +7,7 @@ The source code is licensed MIT.
 # Demo
 https://labs.manohara.info/simplescroll/
 # Usage
+https://labs.manohara.info/simplescroll/
 ## Basic Usage
 ```
 <script defer src='path/to/simpleScroll.js' id="script_simplescroll"></script>
@@ -24,8 +25,6 @@ data-border: Icon border color,String (default: white)
 data-bordersize: Icon border width,Numeric (default(px): 1)
 data-size: Icon size,Numeric (default(px): 35)
 ```
-
-https://labs.manohara.info/simplescroll/
 
 # Polyfill
 ## Scroll-Behavior-polyfill Library : for Safari and Edge
